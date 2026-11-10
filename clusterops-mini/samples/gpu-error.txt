@@ -1,0 +1,7 @@
+Pod: research-training-job
+Namespace: ml-research
+Status: Pending
+Reason: FailedScheduling
+Message: 0/4 nodes are available: 4 Insufficient nvidia.com/gpu.
+Requested GPUs: 2
+Available GPUs: 0
